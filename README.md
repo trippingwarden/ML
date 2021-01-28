@@ -1,2 +1,1 @@
-# ML
-ML Based models
+# Malaria-Detection
